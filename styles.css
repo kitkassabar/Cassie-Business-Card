@@ -22,13 +22,8 @@ body {
     background: #ffc8dd;
     color:purple;
     box-shadow: 9px 9px 9px #a2d2ff;
+     
     
-        
-    /*
-    Challenge:
-    Find a color palette you like on Coolors.co
-    and use it in your business card.
-     */
 }
 
 .border-blue {
@@ -47,35 +42,12 @@ body {
     font-family:fantasy;
     
     .btn:hover{background-color: #a2d2ff}
-    
-    
-    
-    
-         
-        
-    
-    
-    
+      
+     
 }
 .border {
     border: 3px solid #a2d2ff;
 }
 
 
-/*
-Stretch goals:
-Find other ways you can personalize 
-the design of your business card, e.g.:
-- change the border(s)
-- add border radius
-- shuffle the layout
-- shadows        🤯
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
 
-/*
-Final challenge:
-Download the code to your local computer and place it
-in a folder called "business-card"
-*/
